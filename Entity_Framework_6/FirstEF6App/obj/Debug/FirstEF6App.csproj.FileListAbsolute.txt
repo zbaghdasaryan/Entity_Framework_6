@@ -1,0 +1,12 @@
+C:\Users\Zorayr\source\repos\zbaghdasaryan\Entity_Framework_6\Entity_Framework_6\FirstEF6App\bin\Debug\FirstEF6App.exe.config
+C:\Users\Zorayr\source\repos\zbaghdasaryan\Entity_Framework_6\Entity_Framework_6\FirstEF6App\bin\Debug\FirstEF6App.exe
+C:\Users\Zorayr\source\repos\zbaghdasaryan\Entity_Framework_6\Entity_Framework_6\FirstEF6App\bin\Debug\FirstEF6App.pdb
+C:\Users\Zorayr\source\repos\zbaghdasaryan\Entity_Framework_6\Entity_Framework_6\FirstEF6App\bin\Debug\EntityFramework.dll
+C:\Users\Zorayr\source\repos\zbaghdasaryan\Entity_Framework_6\Entity_Framework_6\FirstEF6App\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Zorayr\source\repos\zbaghdasaryan\Entity_Framework_6\Entity_Framework_6\FirstEF6App\bin\Debug\EntityFramework.xml
+C:\Users\Zorayr\source\repos\zbaghdasaryan\Entity_Framework_6\Entity_Framework_6\FirstEF6App\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Zorayr\source\repos\zbaghdasaryan\Entity_Framework_6\Entity_Framework_6\FirstEF6App\obj\Debug\FirstEF6App.csprojAssemblyReference.cache
+C:\Users\Zorayr\source\repos\zbaghdasaryan\Entity_Framework_6\Entity_Framework_6\FirstEF6App\obj\Debug\FirstEF6App.csproj.CoreCompileInputs.cache
+C:\Users\Zorayr\source\repos\zbaghdasaryan\Entity_Framework_6\Entity_Framework_6\FirstEF6App\obj\Debug\FirstEF6App.csproj.CopyComplete
+C:\Users\Zorayr\source\repos\zbaghdasaryan\Entity_Framework_6\Entity_Framework_6\FirstEF6App\obj\Debug\FirstEF6App.exe
+C:\Users\Zorayr\source\repos\zbaghdasaryan\Entity_Framework_6\Entity_Framework_6\FirstEF6App\obj\Debug\FirstEF6App.pdb
